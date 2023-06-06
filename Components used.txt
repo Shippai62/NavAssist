@@ -1,0 +1,13 @@
+Arduino Nano
+6x8cm Single Sided Veroboard
+HC-SR04 Ultrasonic Sensor
+3 Small Pushbuttons
+Buzzer
+Vibrator Motor
+1K ohms Resistor
+C945 NPN Transistor
+1N4148 Signal Diode
+0.1uf Capacitor
+USB Power Bank Circuit Board 134N3P
+3.7 V Lithium Battery
+Slide Switch
